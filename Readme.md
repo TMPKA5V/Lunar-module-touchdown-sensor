@@ -3,6 +3,8 @@
 
 ![](/Images/1.jpg)
 
+Astronauts had two lightbulbs that turned on when the LM legs touched the surface.
+
 A very simple mechanism but very crucial because the engines had to be turned off immediately after touchdown, not earlier not later or probably the LEM and the men would have gone.
 So I run some search on Google for Lunar Module Apollo and keywords along this line and landed (!) on the [Apollo Lunar Module Documentation page](http://history.nasa.gov/alsj/alsj-LMdocs.html) at [NASA History Division](http://history.nasa.gov/). I downloaded the [Apollo Operations Handbook Lunar Module part I](http://history.nasa.gov/alsj/LM10HandbookVol1.pdf). It’s a huge document, but after all it’s the handook of the Lunar Module. It could be larger, though.
 I of course looked for the part related to the Lunar Contact Lights and the logic behind them : of course it could not be one switch and one lamp only.
